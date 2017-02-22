@@ -1,1 +1,3 @@
-# Web-scraping-
+# Web Scraping
+
+Scraping data using beautifulsoup
