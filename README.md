@@ -1,3 +1,3 @@
 # Web Scraping
 
-Scraping data using beautifulsoup
+Scraping data from wikipedia using beautifulsoup
